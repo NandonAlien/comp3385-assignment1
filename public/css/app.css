@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+header{
+    
+    height: 100px;
+    background-color: rgb(61, 32, 112);
+    font-size: 44px;
+    color: #d7ddf5;
+    font-style: bold;
+}
+
+main{
+    margin: 0px;
+    height: 500px;
+    font-size: 20px;
+    color: #edf6fc;
+    background-color: rgb(153, 161, 170);
+}
+
+main > h2{
+    font-size: 36px;
+    }
+footer{
+    font-size: 20px;
+    background-color: rgb(61, 32, 112);
+    color:  #d7ddf5;
+}
