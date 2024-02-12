@@ -1,0 +1,21 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+header{
+    background-color: rgb(46, 108, 108);
+    color: #eae9d8;
+ font-size: 33;
+ font-style: bold;
+}
+main{
+    font-size: 15;
+    
+}
+h1{
+    font-size: 24;
+    }
+footer{
+    font-size: 10;
+    background-color: rgb(46, 108, 108);
+    color:  #eae9d8;
+}
